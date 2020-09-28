@@ -1,12 +1,9 @@
 package com.example.clase3_4;
 
 import android.content.Intent;
-import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.util.Log;
 
-import com.example.clase3_4.apps.Usuario;
+import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
 
 public class actiINFO extends AppCompatActivity {
 
