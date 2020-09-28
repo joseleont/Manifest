@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase3-4</string>
+
+    <string-array name="Perfil">
+        <item>ruri</item>
+        <item>Yuzu</item>
+
+    </string-array>
+</resources>
+
